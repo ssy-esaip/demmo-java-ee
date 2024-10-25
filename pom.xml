@@ -8,6 +8,7 @@
     <name>javaee7-simple-sample</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<build.version>1.0.0</build.version>
     </properties>
     <dependencies>
         <dependency>
